@@ -32,7 +32,7 @@ nav ul li a:hover{
 nav ul li{
     display: inline-block;
     list-style-type: none;
-    background-color: #;
+    /* background-color: #; */
 }
 
 nav > ul > li > a{
@@ -173,7 +173,7 @@ p {
     transform: translateY(0%);
   }
 }
-}
+
 
 
 .description {
@@ -294,7 +294,7 @@ p > a:hover {
 	margin-bottom: 0;
 	color: #222222;
 	line-height: 1.42857143;
-  font-color: #8c9398;
+  color: #8c9398;
 }
 
 .animated {
@@ -337,7 +337,7 @@ p > a:hover {
   margin-bottom: 0;
   color: #222222;
   line-height: 1.42857143;
-  font-color: #8c9398;
+  color: #8c9398;
 }
 
 .intro-animated {
@@ -452,7 +452,7 @@ p > a:hover {
   margin-bottom: 2%;
   color:black;
   line-height: 1.42857143;
-  font-color: #8c9398;
+  color: #8c9398;
 }
 
 .portfolio-line {
